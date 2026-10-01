@@ -11,12 +11,12 @@ React / TypeScript, platform engineering and AI-powered interfaces. Based in Yek
 
 ### Experience
 
-<img src="https://www.google.com/s2/favicons?domain=yandex.ru&sz=64" width="16" height="16" alt="Yandex" /> **[Yandex](https://yandex.ru/plusadtech/)** — Frontend Developer (internship) · *Nov 2025 – May 2026*
+<img src="https://www.google.com/s2/favicons?domain=yandex.ru&sz=64" width="16" height="16" align="center" alt="Yandex" /> **[Yandex](https://yandex.ru/plusadtech/)** — Frontend Developer (internship) · *Nov 2025 – May 2026*
 - **Yandex Plus frontend platform:** large-scale codebase refactoring, laid the foundation for migrating to **FSD**, removed manual approvals in **CI/CD**, started rolling out logging & metrics with **OpenTelemetry SDK**, wrote the first docs for the **Fundament** platform
 - **Yandex Tracker:** built key UI modules, integrated third-party services and an **AI chat assistant**, optimized client-side performance
 - Received a full-time offer after the internship
 
-<img src="https://www.google.com/s2/favicons?domain=kontur.ru&sz=64" width="16" height="16" alt="Kontur" /> **[SKB Kontur](https://kontur.ru/)** — Web Developer, SEO team · *Jun 2024 – Nov 2025*
+<img src="https://www.google.com/s2/favicons?domain=kontur.ru&sz=64" width="16" height="16" align="center" alt="Kontur" /> **[SKB Kontur](https://kontur.ru/)** — Web Developer, SEO team · *Jun 2024 – Nov 2025*
 - Built interactive pricing calculators for product websites: [meeting cost calculator for Kontur.Talk](https://kontur.ru/lp/talk-calc) and [multi-subscription cost calculator](https://kontur.ru/lp/kontur-podpiska-s)
 - Improved technical SEO and **Core Web Vitals**, semantics and structured data
 - Developed internal tools: meta tag & UTM generator, LiveInternet stats parser
