@@ -1,93 +1,58 @@
-<div align="center">
+### Hi, I'm Stepan 👋
+Frontend developer with ~2 years of commercial experience at **Yandex** and **SKB Kontur**.
+React / TypeScript, platform engineering and AI-powered interfaces. Based in Yekaterinburg.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Stepan+Vasinovich+%F0%9F%91%8B;Frontend+Developer;React+%2B+TypeScript;Platform+%26+AI-powered+interfaces" alt="Typing SVG" />
+### Contacts
+[![Telegram](https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/shetichechi)
+[![vasinoovich@mail.ru](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=maildotru&logoColor=ffffff)](mailto:vasinoovich@mail.ru)
+[![Website](https://img.shields.io/badge/vasste.ru-161B22?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://vasste.ru)
+![Phone](https://img.shields.io/badge/+7_900_042--10--12-161B22?style=for-the-badge&logo=phone&logoColor=ffffff)
 
-<p>
-  <a href="https://t.me/shetichechi"><img src="https://img.shields.io/badge/Telegram-@shetichechi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:vasinoovich@mail.ru"><img src="https://img.shields.io/badge/Email-vasinoovich@mail.ru-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <a href="https://vasste.ru"><img src="https://img.shields.io/badge/Website-vasste.ru-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-</p>
+### Experience
+**Yandex** — Frontend Developer (internship) · 2025–2026 · Yandex Plus frontend platform, Yandex Tracker
+<br/>
+**SKB Kontur** — Web Developer, SEO team · 2024–2025
 
-</div>
+### Projects
+**[UpHost.cloud](https://uphost.cloud)** — VPS hosting: landing page, billing dashboard and admin panel from scratch
+<br/>
+**KitKart** — product card localization for Chinese marketplaces (Yandex SHRI project)
+<br/>
+**Slabotochka** — SPA for a low-voltage systems company with amoCRM integration
 
----
+### Languages
+![TypeScript](https://img.shields.io/badge/typescript-161B22?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/javascript-161B22?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/python-161B22?style=for-the-badge&logo=python&logoColor=ffffff)
+<br/>
+![HTML](https://img.shields.io/badge/html-161B22?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS-161B22?style=for-the-badge&logo=css&logoColor=ffffff)
+![SCSS](https://img.shields.io/badge/scss-161B22?style=for-the-badge&logo=sass&logoColor=ffffff)
 
-### 👨‍💻 About me
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-161B22?style=for-the-badge&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/tailwind-161B22?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
+<br/>
+![TanStack Query](https://img.shields.io/badge/tanstack%20query-161B22?style=for-the-badge&logo=reactquery&logoColor=ffffff)
+![Zustand](https://img.shields.io/badge/zustand-161B22?style=for-the-badge&logo=react&logoColor=ffffff)
+![Jotai](https://img.shields.io/badge/jotai-161B22?style=for-the-badge&logo=react&logoColor=ffffff)
+<br/>
+![Framer Motion](https://img.shields.io/badge/framer%20motion-161B22?style=for-the-badge&logo=framer&logoColor=ffffff)
+![GSAP](https://img.shields.io/badge/gsap-161B22?style=for-the-badge&logo=greensock&logoColor=ffffff)
+![i18next](https://img.shields.io/badge/i18next-161B22?style=for-the-badge&logo=i18next&logoColor=ffffff)
 
-Frontend developer with **~2 years of commercial experience** at **Yandex** and **SKB Kontur**.
-I focus on **React / TypeScript**, platform engineering and integrating **AI components** into interfaces.
+### Technologies & Tools
+![Vite](https://img.shields.io/badge/vite-161B22?style=for-the-badge&logo=vite&logoColor=ffffff)
+![Vitest](https://img.shields.io/badge/vitest-161B22?style=for-the-badge&logo=vitest&logoColor=ffffff)
+![Storybook](https://img.shields.io/badge/storybook-161B22?style=for-the-badge&logo=storybook&logoColor=ffffff)
+<br/>
+![Docker](https://img.shields.io/badge/docker-161B22?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Git](https://img.shields.io/badge/git-161B22?style=for-the-badge&logo=git&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/figma-161B22?style=for-the-badge&logo=figma&logoColor=ffffff)
+<br/>
+![WebSockets](https://img.shields.io/badge/websockets%20(centrifuge)-161B22?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
+![OpenTelemetry](https://img.shields.io/badge/opentelemetry-161B22?style=for-the-badge&logo=opentelemetry&logoColor=ffffff)
 
-- 🎓 Master's student in **AI Engineering** at Ural Federal University (UrFU)
-- 📍 Based in **Yekaterinburg**
-- ⚡ Into clean architecture (FSD), performance and developer experience
-
----
-
-### 💼 Experience
-
-**Yandex** — Frontend Developer (internship) · *Nov 2025 – May 2026*
-- **Yandex Plus frontend platform:** large-scale codebase refactoring, laid the foundation for migrating to **FSD**, removed manual approvals in **CI/CD**, started rolling out logging & metrics with **OpenTelemetry SDK**, wrote the first docs for the **Fundament** platform
-- **Yandex Tracker:** built key UI modules, integrated third-party services and an **AI chat assistant**, optimized client-side performance
-- Received a full-time offer after the internship
-
-**SKB Kontur** — Web Developer, SEO team · *Jun 2024 – Nov 2025*
-- Built interactive pricing calculators for product websites
-- Improved technical SEO and **Core Web Vitals**, semantics and structured data
-- Developed internal tools: meta tag & UTM generator, LiveInternet stats parser
-
----
-
-### 🚀 Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[UpHost.cloud](https://uphost.cloud)** | Commercial VPS hosting. Built the entire frontend from scratch: landing page + billing dashboard and admin panel | Next.js 16, React 19, Tailwind, GSAP, Framer Motion, TanStack Query, Centrifuge, i18n |
-| **KitKart** | Yandex School of Interface Development project: localization of product cards from Chinese marketplaces. Custom UI kit, drag-and-drop gallery, OCR & image translation | React, TypeScript, Vite, Zod, CSS Modules |
-| **Slabotochka** | SPA for a low-voltage systems company with **amoCRM** integration | React, TypeScript, Vite, Tailwind, Framer Motion |
-
----
-
-### 🛠 Tech stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,vitest,html,css,sass&perline=10" alt="Frontend stack" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,python,git,github,figma&perline=10" alt="Tools" />
-</p>
-
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
-![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat-square&logo=react&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![WebSockets](https://img.shields.io/badge/Centrifuge_(WebSockets)-2563EB?style=flat-square&logo=socketdotio&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white)
-![i18n](https://img.shields.io/badge/i18n-0EA5E9?style=flat-square&logo=i18next&logoColor=white)
-![a11y](https://img.shields.io/badge/a11y-7C3AED?style=flat-square&logo=accessibleicon&logoColor=white)
-
----
-
-### 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tMakotoii&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tMakotoii&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tMakotoii&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
----
-
-### 🎓 Education & courses
-
-- **UrFU** — M.Sc. in Artificial Intelligence Engineering *(2026 – 2028)*
-- **UrFU** — B.Sc. in Business Informatics *(2022 – 2026)*
-- **Yandex School of Interface Development (SHRI)** *(2025)*
-- **Yandex internal training:** "AI for Interface Developers" *(2026)*
-
-<div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=tMakotoii&color=3B82F6&style=flat-square&label=Profile+views" alt="Profile views" />
-</div>
+### Education
+**UrFU** — M.Sc. in AI Engineering (2026–2028) · B.Sc. in Business Informatics (2022–2026)
