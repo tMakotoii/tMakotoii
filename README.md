@@ -9,16 +9,23 @@ React / TypeScript, platform engineering and AI-powered interfaces. Based in Yek
 ![Phone](https://img.shields.io/badge/+7_900_042--10--12-161B22?style=for-the-badge&logo=phone&logoColor=ffffff)
 
 ### Experience
-**Yandex** — Frontend Developer (internship) · 2025–2026 · Yandex Plus frontend platform, Yandex Tracker
-<br/>
-**SKB Kontur** — Web Developer, SEO team · 2024–2025
+
+**Yandex** — Frontend Developer (internship) · *Nov 2025 – May 2026*
+- **Yandex Plus frontend platform:** large-scale codebase refactoring, laid the foundation for migrating to **FSD**, removed manual approvals in **CI/CD**, started rolling out logging & metrics with **OpenTelemetry SDK**, wrote the first docs for the **Fundament** platform
+- **Yandex Tracker:** built key UI modules, integrated third-party services and an **AI chat assistant**, optimized client-side performance
+- Received a full-time offer after the internship
+
+**SKB Kontur** — Web Developer, SEO team · *Jun 2024 – Nov 2025*
+- Built interactive pricing calculators for product websites
+- Improved technical SEO and **Core Web Vitals**, semantics and structured data
+- Developed internal tools: meta tag & UTM generator, LiveInternet stats parser
 
 ### Projects
-**[UpHost.cloud](https://uphost.cloud)** — VPS hosting: landing page, billing dashboard and admin panel from scratch
-<br/>
-**KitKart** — product card localization for Chinese marketplaces (Yandex SHRI project)
-<br/>
-**Slabotochka** — SPA for a low-voltage systems company with amoCRM integration
+
+| Project | Description | Stack |
+|---|---|---|
+| **[UpHost.cloud](https://uphost.cloud)** | Commercial VPS hosting. Built the entire frontend from scratch: landing page + billing dashboard and admin panel | Next.js 16, React 19, Tailwind, GSAP, Framer Motion, TanStack Query, Centrifuge, i18n |
+| **KitKart** | Yandex School of Interface Development project: localization of product cards from Chinese marketplaces. Custom UI kit, drag-and-drop gallery, OCR & image translation | React, TypeScript, Vite, Zod, CSS Modules |
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-161B22?style=for-the-badge&logo=typescript&logoColor=ffffff)
@@ -54,5 +61,9 @@ React / TypeScript, platform engineering and AI-powered interfaces. Based in Yek
 ![WebSockets](https://img.shields.io/badge/websockets%20(centrifuge)-161B22?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
 ![OpenTelemetry](https://img.shields.io/badge/opentelemetry-161B22?style=for-the-badge&logo=opentelemetry&logoColor=ffffff)
 
-### Education
-**UrFU** — M.Sc. in AI Engineering (2026–2028) · B.Sc. in Business Informatics (2022–2026)
+### Education & courses
+
+- **UrFU** — M.Sc. in Artificial Intelligence Engineering *(2026 – 2028)*
+- **UrFU** — B.Sc. in Business Informatics *(2022 – 2026)*
+- **Yandex School of Interface Development (SHRI)** *(2025)*
+- **Yandex internal training:** "AI for Interface Developers" *(2026)*
